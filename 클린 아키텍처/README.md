@@ -1,6 +1,6 @@
 # 클린 아키텍처
 
-> 스터디를 통해 [클린 아키텍처(로버트 C. 마틴 지음, 송준이 옮김, 인사이트, 2021)](http://www.yes24.com/Product/Goods/77283734)를 읽고 정리합니다.
+> 도서 [클린 아키텍처(로버트 C. 마틴 지음, 송준이 옮김, 인사이트, 2021)](http://www.yes24.com/Product/Goods/77283734)를 읽고 스터디하며 정리합니다
 
 <br />
 <br />
@@ -12,7 +12,7 @@
             <th>소제목</th>
             <th>링크</th>
             <th>날짜</th>
-            <th>발표 여부</th>
+            <th>발표/참여</th>
         </tr>
     </thead>
     <tbody>
@@ -41,7 +41,7 @@
         </tr>
          <tr>
             <td>6장 함수형 프로그래밍</td>
-            <td rowspan=2></td>
+            <td rowspan=2><a href="https://invented-narwhal-b79.notion.site/d89e8540965f466abface787916fa5d0">링크</a></td>
             <td rowspan=2>2022년 9월</td>
             <td rowspan=2>참여</td>
         </tr>
