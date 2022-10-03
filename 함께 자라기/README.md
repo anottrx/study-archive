@@ -58,6 +58,43 @@
     <tr>
       <td>나 홀로 전문가에 대한 미신</td>
     </tr>
+    <tr>
+      <td rowspan="10"><strong>2장 함께</strong></td>
+      <td>당신은 몇 년 차?</td>
+      <td rowspan="10">
+        <a href="https://www.notion.so/2-d9370242f39548348f91368f23d8cbb4"
+          >링크</a
+        >
+      </td>
+      <td rowspan="10">2022.10</td>
+    </tr>
+    <tr>
+      <td>소프트웨어 관리자의 개선 우선순위</td>
+    </tr>
+    <tr>
+      <td>협력을 통한 추상화</td>
+    </tr>
+    <tr>
+      <td>신뢰를 깎는 공유인가 신뢰를 쌓는 공유인가</td>
+    </tr>
+    <tr>
+      <td>객관성의 주관성</td>
+    </tr>
+    <!-- <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr> -->
   </tbody>
 </table>
 
