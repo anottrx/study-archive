@@ -8,8 +8,8 @@
 <table>
   <thead>
     <tr>
-      <th>챕터</th>
-      <th>아이템</th>
+      <th>큰제목</th>
+      <th>소제목</th>
       <th>링크</th>
       <th>날짜</th>
     </tr>
@@ -59,14 +59,14 @@
       <td>나 홀로 전문가에 대한 미신</td>
     </tr>
     <tr>
-      <td rowspan="10"><strong>2장 함께</strong></td>
+      <td rowspan="11"><strong>2장 함께</strong></td>
       <td>당신은 몇 년 차?</td>
-      <td rowspan="10">
+      <td rowspan="11">
         <a href="https://www.notion.so/2-d9370242f39548348f91368f23d8cbb4"
           >링크</a
         >
       </td>
-      <td rowspan="10">2022.10</td>
+      <td rowspan="11">2022.10</td>
     </tr>
     <tr>
       <td>소프트웨어 관리자의 개선 우선순위</td>
@@ -81,20 +81,24 @@
       <td>객관성의 주관성</td>
     </tr>
     <!-- <tr>
-      <td></td>
+      <td>이것도 모르세요?</td>
     </tr>
     <tr>
-      <td></td>
+      <td>하향식 접근의 함정</td>
     </tr>
     <tr>
-      <td></td>
+      <td>전문가팀이 실패하는 이유</td>
     </tr>
     <tr>
-      <td></td>
+      <td>구글이 밝힌 탁월한 팀의 비밀</td>
     </tr>
     <tr>
-      <td></td>
-    </tr> -->
+      <td>쾌속 학습팀</td>
+    </tr> 
+    <tr>
+      <td>프로젝트 확률론</td>
+    </tr>
+    -->
   </tbody>
 </table>
 
