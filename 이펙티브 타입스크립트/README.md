@@ -41,6 +41,9 @@
       <td rowspan="13"><strong>2장 타입스크립트 알아보기</strong></td>
       <td>아이템 6 편집기를 사용하여 타입 시스템 탐색하기</td>
       <td rowspan="6">
+        <a href="https://www.notion.so/2-06-bdaefdafef854c63bdf4739e4e834a3c"
+          >링크</a
+        >
       </td>
       <td rowspan="6">2022.09 ~ </td>
     </tr>
