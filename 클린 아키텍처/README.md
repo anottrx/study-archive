@@ -68,7 +68,10 @@
     </tr>
     <tr>
       <td>8장 OCP: 개방-폐쇄 원칙</td>
-      <td rowspan="2"></td>
+      <td rowspan="2"><a
+          href="https://invented-narwhal-b79.notion.site/3e12edf97c774e9e83db36bd3d21f59e"
+          >링크</a
+        ></td>
       <td rowspan="2">2022.10</td>
       <td rowspan="2">참여</td>
     </tr>
