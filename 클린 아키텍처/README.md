@@ -63,7 +63,7 @@
       <td rowspan="2">참여</td>
     </tr>
     <tr>
-      <td rowspan="4"><strong>3부 설계 원칙</strong></td>
+      <td rowspan="5"><strong>3부 설계 원칙</strong></td>
       <td>7장 SRP: 단일 책임 원칙</td>
     </tr>
     <tr>
@@ -72,11 +72,20 @@
           href="https://invented-narwhal-b79.notion.site/3e12edf97c774e9e83db36bd3d21f59e"
           >링크</a
         ></td>
-      <td rowspan="2">2022.10</td>
+      <td rowspan="2">2022.10.25(화)</td>
       <td rowspan="2">참여</td>
     </tr>
     <tr>
-      <td>9장 ISP: 인터페이스 분리 원칙</td>
+      <td>9장 LSP: 리스코프 치환 원칙</td>
+    </tr>
+    <tr>
+      <td>10장 ISP: 인터페이스 분리 원칙</td>
+      <td rowspan="2"></td>
+      <td rowspan="2">2022.11</td>
+      <td rowspan="2">참여</td>
+    </tr>
+    <tr>
+      <td>11장 DIP: 의존성 역전 원칙</td>
     </tr>
   </tbody>
 </table>
