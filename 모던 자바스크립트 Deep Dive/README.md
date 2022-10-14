@@ -60,7 +60,7 @@
           >링크</a
         >
       </td>
-      <td rowspan="7">2022.09 ~</td>
+      <td rowspan="7">2022.09 ~ 2022.10</td>
     </tr>
     <tr>
       <td>10장 객체 리터럴</td>
@@ -80,6 +80,25 @@
     <tr>
       <td>15장 let, const 키워드와 블록 레벨 스코프</td>
     </tr>
+    <tr>
+      <td>16장 프로퍼티 어트리뷰트</td>
+      <td rowspan="4">
+        <a
+          href="https://obvious-spade-e4e.notion.site/Deep-Dive-16-19-9077b070e140433c8f1ca98f11fad02a"
+          >링크</a
+        >
+      </td>
+      <td rowspan="4">2022.10</td>
+    </tr>
+    <tr>
+      <td>17장 생성자 함수에 의한 객체 생성</td>
+    </tr>
+    <!-- <tr>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+    </tr> -->
   </tbody>
 </table>
 
