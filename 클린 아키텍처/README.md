@@ -80,7 +80,10 @@
     </tr>
     <tr>
       <td>10장 ISP: 인터페이스 분리 원칙</td>
-      <td rowspan="2"></td>
+      <td rowspan="2"><a
+          href="https://invented-narwhal-b79.notion.site/b809a5aef4d14958a4503b6900badb47"
+          >링크</a
+        ></td>
       <td rowspan="2">2022.11</td>
       <td rowspan="2">참여</td>
     </tr>
