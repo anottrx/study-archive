@@ -72,7 +72,7 @@
           href="https://invented-narwhal-b79.notion.site/3e12edf97c774e9e83db36bd3d21f59e"
           >링크</a
         ></td>
-      <td rowspan="2">2022.11</td>
+      <td rowspan="2">2022.11.01(화)</td>
       <td rowspan="2">참여</td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@
           href="https://invented-narwhal-b79.notion.site/b809a5aef4d14958a4503b6900badb47"
           >링크</a
         ></td>
-      <td rowspan="2">2022.11</td>
+      <td rowspan="2">2022.11.01(화)</td>
       <td rowspan="2">참여</td>
     </tr>
     <tr>
