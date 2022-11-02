@@ -90,6 +90,19 @@
     <tr>
       <td>11장 DIP: 의존성 역전 원칙</td>
     </tr>
+    <tr>
+      <td rowspan="3">
+        <strong>4부 컴포넌트 원칙</strong>
+      </td>
+      <td>12장 컴포넌트</td>
+      <td rowspan="2">
+      </td>
+      <td rowspan="2">2022.11</td>
+      <td rowspan="2">참여</td>
+    </tr>
+    <tr>
+      <td>13장 컴포넌트 응집도</td>
+    </tr>
   </tbody>
 </table>
 
