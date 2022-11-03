@@ -99,6 +99,16 @@
     <tr>
       <td>19장 프로토타입</td>
     </tr>
+    <tr>
+      <td>20장 strict mode</td>
+      <td rowspan="4">
+        <a
+          href="https://obvious-spade-e4e.notion.site/Deep-Dive-20-59d859f4cd5c4defb0efbf5755d3ccf3"
+          >링크</a
+        >
+      </td>
+      <td rowspan="4">2022.11</td>
+    </tr>
   </tbody>
 </table>
 
