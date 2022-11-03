@@ -40,12 +40,12 @@
     <tr>
       <td rowspan="13"><strong>2장 타입스크립트 알아보기</strong></td>
       <td>아이템 6 편집기를 사용하여 타입 시스템 탐색하기</td>
-      <td rowspan="6">
+      <td rowspan="13">
         <a href="https://www.notion.so/2-06-bdaefdafef854c63bdf4739e4e834a3c"
           >링크</a
         >
       </td>
-      <td rowspan="6">2022.09 ~ </td>
+      <td rowspan="13">2022.09 ~ </td>
     </tr>
     <tr>
       <td>아이템 7 타입이 값들의 집합이라고 생각하기</td>
@@ -58,6 +58,21 @@
     </tr>
     <tr>
       <td>아이템 10 객체 래퍼 타입 피하기</td>
+    </tr>
+    <tr>
+      <td>아이템 11 잉여 속성 체크의 한계 인지하기</td>
+    </tr>
+    <tr>
+      <td>아이템 12 함수 표현식에 타입 적용하기</td>
+    </tr>
+    <tr>
+      <td>아이템 13 타입과 인터페이스 차이점 알기</td>
+    </tr>
+    <tr>
+      <td>아이템 14 타입 연산과 제너릭 사용으로 반복 줄이기</td>
+    </tr>
+    <tr>
+      <td>아이템 15 동적 데이터에 인덱스 시그니처 사용하기</td>
     </tr>
   </tbody>
 </table>
