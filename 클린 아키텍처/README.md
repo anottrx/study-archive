@@ -95,9 +95,11 @@
         <strong>4부 컴포넌트 원칙</strong>
       </td>
       <td>12장 컴포넌트</td>
-      <td rowspan="2">
-      </td>
-      <td rowspan="2">2022.11</td>
+      <td rowspan="2"><a
+          href="https://invented-narwhal-b79.notion.site/df89cd796b1a410aaa4d93b5834fe360"
+          >링크</a
+        ></td>
+      <td rowspan="2">2022.11.15(화)</td>
       <td rowspan="2">참여</td>
     </tr>
     <tr>
