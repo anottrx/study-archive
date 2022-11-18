@@ -105,6 +105,18 @@
     <tr>
       <td>13장 컴포넌트 응집도</td>
     </tr>
+    <tr>
+      <td>14장 컴포넌트 결합</td>
+      <td rowspan="2"></td>
+      <td rowspan="2">2022.11</td>
+      <td rowspan="2"></td>
+    </tr>
+    <tr>
+      <td rowspan="7">
+        <strong>5부 아키텍처</strong>
+      </td>
+      <td>15장 아키텍처란?</td>
+    </tr>
   </tbody>
 </table>
 
