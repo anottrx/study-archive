@@ -108,7 +108,7 @@
     <tr>
       <td>14장 컴포넌트 결합</td>
       <td rowspan="2"></td>
-      <td rowspan="2">2022.11</td>
+      <td rowspan="2">2022.12</td>
       <td rowspan="2"></td>
     </tr>
     <tr>
