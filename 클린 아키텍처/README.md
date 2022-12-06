@@ -68,10 +68,12 @@
     </tr>
     <tr>
       <td>8장 OCP: 개방-폐쇄 원칙</td>
-      <td rowspan="2"><a
+      <td rowspan="2">
+        <a
           href="https://invented-narwhal-b79.notion.site/3e12edf97c774e9e83db36bd3d21f59e"
           >링크</a
-        ></td>
+        >
+      </td>
       <td rowspan="2">2022.11.01(화)</td>
       <td rowspan="2">참여</td>
     </tr>
@@ -80,10 +82,12 @@
     </tr>
     <tr>
       <td>10장 ISP: 인터페이스 분리 원칙</td>
-      <td rowspan="2"><a
+      <td rowspan="2">
+        <a
           href="https://invented-narwhal-b79.notion.site/b809a5aef4d14958a4503b6900badb47"
           >링크</a
-        ></td>
+        >
+      </td>
       <td rowspan="2">2022.11.01(화)</td>
       <td rowspan="2">참여</td>
     </tr>
@@ -95,10 +99,12 @@
         <strong>4부 컴포넌트 원칙</strong>
       </td>
       <td>12장 컴포넌트</td>
-      <td rowspan="2"><a
+      <td rowspan="2">
+        <a
           href="https://invented-narwhal-b79.notion.site/df89cd796b1a410aaa4d93b5834fe360"
           >링크</a
-        ></td>
+        >
+      </td>
       <td rowspan="2">2022.11.15(화)</td>
       <td rowspan="2">참여</td>
     </tr>
@@ -107,9 +113,14 @@
     </tr>
     <tr>
       <td>14장 컴포넌트 결합</td>
-      <td rowspan="2"></td>
-      <td rowspan="2">2022.12</td>
-      <td rowspan="2"></td>
+      <td rowspan="2">
+        <a
+          href="https://invented-narwhal-b79.notion.site/654d1f141d794460bc50200941c241dc"
+          >링크</a
+        >
+      </td>
+      <td rowspan="2">2022.12.06(화)</td>
+      <td rowspan="2">발표</td>
     </tr>
     <tr>
       <td rowspan="7">
@@ -119,6 +130,7 @@
     </tr>
   </tbody>
 </table>
+
 
 <br />
 <br />
