@@ -98,7 +98,25 @@
     <tr>
       <td>프로젝트 확률론</td>
     </tr>
-   
+    <tr>
+      <td rowspan="11"><strong>3장 애자일</strong></td>
+      <td>애자일의 씨앗</td>
+      <td rowspan="4">
+        <a href="https://obvious-spade-e4e.notion.site/3-6cbc89e4379b4ece96cc6ea3c0a78aba"
+          >링크</a
+        >
+      </td>
+      <td rowspan="4">2022.12 ~ 2023.01</td>
+    </tr>
+    <tr>
+      <td>애자일 도입 성공 요인 분석</td>
+    </tr>
+    <tr>
+      <td>당신의 조직에 새 방법론이 먹히지 않는 이유</td>
+    </tr>
+    <tr>
+      <td>애자일을 애자일스럽게 도입하기</td>
+    </tr>
   </tbody>
 </table>
 
