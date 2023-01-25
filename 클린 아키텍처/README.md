@@ -138,7 +138,16 @@
     <tr>
       <td>17장 경계: 선 긋기</td>
     </tr>
-
+    <tr>
+      <td>18장 경계 해부학</td>
+      <td rowspan="2">
+      </td>
+      <td rowspan="2"></td>
+      <td rowspan="2">참여</td>
+    </tr>
+    <tr>
+      <td>19장 정책과 수준</td>
+    </tr>
   </tbody>
 </table>
 
