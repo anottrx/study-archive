@@ -128,9 +128,19 @@
       </td>
       <td>15장 아키텍처란?</td>
     </tr>
+    <tr>
+      <td>16장 독립성</td>
+      <td rowspan="2">
+      </td>
+      <td rowspan="2"></td>
+      <td rowspan="2">참여</td>
+    </tr>
+    <tr>
+      <td>17장 경계: 선 긋기</td>
+    </tr>
+
   </tbody>
 </table>
-
 
 <br />
 <br />
