@@ -131,8 +131,12 @@
     <tr>
       <td>16장 독립성</td>
       <td rowspan="2">
+        <a
+          href="https://invented-narwhal-b79.notion.site/1151927331a44823b8d8623f25be5715"
+          >링크</a
+        >
       </td>
-      <td rowspan="2"></td>
+      <td rowspan="2">2022.12.21(수)</td>
       <td rowspan="2">참여</td>
     </tr>
     <tr>
