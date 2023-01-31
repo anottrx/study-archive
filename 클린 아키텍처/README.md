@@ -146,11 +146,21 @@
       <td>18장 경계 해부학</td>
       <td rowspan="2">
       </td>
-      <td rowspan="2"></td>
+      <td rowspan="2">2023.01.11(수)</td>
       <td rowspan="2">참여</td>
     </tr>
     <tr>
       <td>19장 정책과 수준</td>
+    </tr>
+    <tr>
+      <td>20장 업무 규칙</td>
+      <td rowspan="2">
+      </td>
+      <td rowspan="2">2023.02.01(수)</td>
+      <td rowspan="2">참여</td>
+    </tr>
+    <tr>
+      <td>21장 소리치는 아키텍처</td>
     </tr>
   </tbody>
 </table>
