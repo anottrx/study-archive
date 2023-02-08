@@ -155,8 +155,12 @@
     <tr>
       <td>20장 업무 규칙</td>
       <td rowspan="2">
+        <a
+          href="https://invented-narwhal-b79.notion.site/c84df8fc4868457caf6241292cf29c88"
+          >링크</a
+        >
       </td>
-      <td rowspan="2">2023.02.01(수)</td>
+      <td rowspan="2">2023.02.08(수)</td>
       <td rowspan="2">참여</td>
     </tr>
     <tr>
