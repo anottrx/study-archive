@@ -1,6 +1,8 @@
 # 함께 자라기
 
-> 도서 [함께 자라기: 애자일로 가는 길(김창준 지음, 인사이트, 2022)](http://www.yes24.com/Product/Goods/67350256)를 읽고 정리합니다
+> 도서 [함께 자라기: 애자일로 가는 길(김창준 지음, 인사이트, 2022)](http://www.yes24.com/Product/Goods/67350256)를 읽고 정했습니다
+
+> 후기는 [이곳](https://anottrx.github.io/essay/grow_together/)에 작성했습니다
 
 <br />
 <br />
