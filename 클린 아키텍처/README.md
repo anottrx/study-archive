@@ -123,7 +123,7 @@
       <td rowspan="2">발표</td>
     </tr>
     <tr>
-      <td rowspan="7">
+      <td rowspan="11">
         <strong>5부 아키텍처</strong>
       </td>
       <td>15장 아키텍처란?</td>
@@ -165,6 +165,26 @@
     </tr>
     <tr>
       <td>21장 소리치는 아키텍처</td>
+    </tr>
+    <tr>
+      <td>22장 클린 아키텍처</td>
+      <td rowspan="2">
+      </td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+    </tr>
+    <tr>
+      <td>23장 프레젠터와 험블 객체</td>
+    </tr>
+    <tr>
+      <td>24장 부분적 경계</td>
+      <td rowspan="2">
+      </td>
+      <td rowspan="2"></td>
+      <td rowspan="2"></td>
+    </tr>
+    <tr>
+      <td>25장 계층과 경계</td>
     </tr>
   </tbody>
 </table>
